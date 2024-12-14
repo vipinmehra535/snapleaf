@@ -1,4 +1,3 @@
-import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:ui_13/core/color.dart';
 import 'package:ui_13/widgets/bottom_nav.dart';
